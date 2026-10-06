@@ -132,7 +132,7 @@ ships.push(A_Warrior_601);
 ships.push(Scorpion_Ray_602);
 ships.push(Marauder_603);
 ships.push(Condor_604);
-ships.push(Fennec_605);
+ships.push(A_Speedster_605);
 ships.push(Rock_Tower_606);
 ships.push(Barracuda_607);
 ships.push(O_Defender_608);
