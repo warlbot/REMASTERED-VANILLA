@@ -41,7 +41,7 @@
 
 //ABOUT
 
-//this ship mod includes: Strawberry mod: Titanshot, Lux.  by: NOVA, Kest: 
+//this ship mod includes: Strawberry mod: Titanshot  by: NOVA, Kest: 
 //Payload by Kleinem, AVDFS ( advanced support fighter) By Kleinem
 //Tsimtsum BY BHPSGNUM / 45RFEW. idk. but high credit to them
 //includes remasteded vanilla ship tree
@@ -55,7 +55,7 @@
 //Old BatDef Replaced With Mermaid ( by me )
 //Aries Replaced By Colossus ( by me :) 
 //Old O Defender Replaced By Payload ( By Kleinem)
-//By me: ( all the ships except: Titanshot, Lux, Payload, Adv-Support-Fighter)
+//By me: ( all the ships except: Titanshot, Payload, Adv-Support-Fighter, Tsimtsum)
 //THIS SHIP TREE IS UNDER DEVELOPMENT, THIS IS THE BETA VERSION, YOU CAN EXPECT SOME SHIPS OP THAN OTHERS!!!!!!
 // The ships that are not made by me ( other creators ) maybe be replaced with ships made by me.
 
