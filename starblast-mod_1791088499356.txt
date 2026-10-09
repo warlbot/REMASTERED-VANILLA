@@ -160,7 +160,7 @@ ships.push(O_Defender_608);
 ships.push(Payload_609);
 ships.push(Advanced_Support_Fighter_610);
 ships.push(Lux_611);
-ships.push(Luna_Crescens_612);
+ships.push(Luna_Crecens_612);
 //T7
 ships.push(Titanshot_701);
 ships.push(Odyssey_702);
