@@ -205,7 +205,7 @@ this.options = {
   station_crystal_capacity: 1,
   vocabulary: vocabulary,
   asteroids_strength: 1,
-  friendly_colors: 4, 
+  friendly_colors: 2, 
   speed_mod: 1.2,
   choose_ship: [101,102],
 };
